@@ -1,0 +1,25 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "typeRoots": [
+      "node_modules/@types",
+      "typings"
+    ],
+    "target": "es3",
+    "lib": [
+      "dom",
+      "es5",
+      "es2015"
+    ],
+    "strict": true,
+    "sourceMap": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -204,6 +204,7 @@ Thumbs.db
 *~
 .DS_Store
 .cache/
+.rpt2_cache/
 dist/
 *.dbmdl
 *.dbproj.schemaview
